@@ -5,7 +5,7 @@ Change Log:
 -----------
 20180205-v2.0.1
  * bugfixes:
-    - errors on open .tiff file when using Matplotlib 2.0 or higher and Pillow 4.0 or higher 
+    - errors on open image when using Matplotlib 2.0 or higher and Pillow 4.0 or higher 
  * tasks:
     - Set default-encoding to 'utf-8'
 
