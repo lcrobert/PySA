@@ -1,7 +1,7 @@
 # PySA2 - A GUI tool of spectral image analysis
 ###   [ This repo is no longer supported. ]
 
-這個 repo 將於 20190205 停止維護，如有類似的光譜影像分析需求，可到 [PySA WebApp](https://lcrobert.pythonanywhere.com/pysa/) 網站使用線上影像分析工具 。其實本來有預計把程式碼重新以 py3 和 pyside2 改寫，並加入光譜平場修正  ( code已寫好雛型 ) 及其他小功能，但因為時間實在不夠用，目前我會先以開發維護 PySA WebApp 網站為主。 
+這個 repo 將於 20190205 起停止維護，如有類似的光譜影像分析需求，可到 [PySA WebApp](https://lcrobert.pythonanywhere.com/pysa/) 網站使用線上影像分析工具 。其實本來有預計把程式碼重新以 py3 和 pyside2 改寫，並加入光譜平場修正  ( code已寫好雛型 ) 及其他小功能，但因為時間實在不夠用，目前我會先以開發維護 PySA WebApp 網站為主。 
 
 Last update : 20190131
 
